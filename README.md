@@ -36,7 +36,7 @@ In the last section of the project, I calculated and plotted an ROC curve measur
 Concluding our R Data Science project, I learnt how to develop a credit card fraud detection model using machine learning. I used a variety of ML algorithms to implement this model and also plotted the respective performance curves for the models. I also learnt how data can be analyzed and visualized to discern fraudulent transactions from other types of data.
 
 
-Cr: DataFlair
+Cr:DataFlair
 
 
 
